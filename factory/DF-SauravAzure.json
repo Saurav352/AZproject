@@ -1,0 +1,9 @@
+{
+	"name": "DF-SauravAzure",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90cd9871-9acf-435c-a102-1f306cc14244",
+		"tenantId": "cc90d6a2-c567-4358-8373-eca69230fab8"
+	}
+}
